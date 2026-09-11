@@ -1,5 +1,7 @@
 # Animated GIF library for Java
 
+- Converted to SemVer.
+
 This code is a re-package of the Animated GIF processing classes made
 available by Kevin Weiner at http://www.fmsware.com/stuff/gif.html, which
 states that the code "may be freely used for any purpose. _Unisys patent
