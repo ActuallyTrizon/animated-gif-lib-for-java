@@ -11,8 +11,8 @@
     <packaging>jar</packaging>
     <name>Animated GIF library for Java</name>
     <description>
-        A re-package of the Animated GIF processing classes made
-        available by Kevin Weiner at http://www.java2s.com/Code/Java/2D-Graphics-GUI/AnimatedGifEncoder.htm
+        A repackage of the Animated GIF processing classes made
+        available by Rtyley at https://github.com/rtyley/animated-gif-lib-for-java
     </description>
     <url>https://github.com/ActuallyTrizon/animated-gif-lib-for-java</url>
     <issueManagement>
