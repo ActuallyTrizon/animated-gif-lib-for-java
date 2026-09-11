@@ -12,7 +12,7 @@
     <name>Animated GIF library for Java</name>
     <description>
         A re-package of the Animated GIF processing classes made
-        available by Kevin Weiner at http://www.fmsware.com/stuff/gif.html
+        available by Kevin Weiner at http://www.java2s.com/Code/Java/2D-Graphics-GUI/AnimatedGifEncoder.htm
     </description>
     <url>https://github.com/ActuallyTrizon/animated-gif-lib-for-java</url>
     <issueManagement>
