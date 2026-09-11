@@ -14,9 +14,9 @@
         A re-package of the Animated GIF processing classes made
         available by Kevin Weiner at http://www.fmsware.com/stuff/gif.html
     </description>
-    <url>https://github.com/rtyley/animated-gif-lib-for-java</url>
+    <url>https://github.com/ActuallyTrizon/animated-gif-lib-for-java</url>
     <issueManagement>
-        <url>https://github.com/rtyley/animated-gif-lib-for-java/issues</url>
+        <url>https://github.com/ActuallyTrizon/animated-gif-lib-for-java/issues</url>
         <system>GitHub Issues</system>
     </issueManagement>
     <licenses>
@@ -37,6 +37,11 @@
             <name>Roberto Tyley</name>
             <url>https://github.com/rtyley</url>
             <id>rtyley</id>
+        </developer>
+        <developer>
+            <name>ActuallyTrizon</name>
+            <url>https://github.com/ActuallyTrizon</url>
+            <id>Trizon</id>
         </developer>
     </developers>
 
@@ -71,8 +76,8 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>2.3.2</version>
                 <configuration>
-                    <source>1.6</source>
-                    <target>1.6</target>
+                    <source>1.8</source>
+                    <target>1.8</target>
                 </configuration>
             </plugin>
             <plugin>
